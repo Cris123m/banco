@@ -3,14 +3,20 @@
     <div class="container">
 
         <header class="major">
-            <h2>Generic</h2>
-            <p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+            <h2>Tasa de interés</h2>
+            <p>¿Qué es una tasa de interés bancaria?</p>
         </header>
 
-        <a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-        <p>Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.</p>
-        <p>Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.</p>
-        <p>Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.</p>
-
+        <p>La tasa de interés es la cantidad de dinero, que por lo regular representa un porcentaje del crédito
+             o préstamo que se ha requerido y que el deudor deberá pagar a quien le presta. En términos simples; 
+             es el precio del uso del dinero. En el caso de los emprendedores; es importante conocer el valor actual
+              de estos indicadores. Debido a que afectan de manera directa, y positiva o negativamente a su negocio.</p>
+        <h2>¿Por qué se cobra?</h2>
+        <p>Existen dos tipos de interés, el simple, que es una sola cantidad por todo el préstamo; o el
+        compuesto, que se calcula según el tiempo por el que se le ha otorgado el crédito, ya sea anual
+        mensual, semanal o diario. Para poder calcularlo es necesario conocer cuatro elementos
+        importantes: el capital, es decir, la cantidad del dinero prestado, el tipo de tasa de interés elegido
+        el tiempo por el que se realiza el préstamo y de qué tipo es. Una vez que tengas estos datos será
+        mucho más fácil llevar a cabo un uso adecuado de tus finanzas.</p>
     </div>
 </section>

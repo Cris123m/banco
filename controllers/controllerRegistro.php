@@ -2,18 +2,11 @@
 include "../models/modelUser.php";
 $user = new modelUser();
 
-/* $user->setUser("Usuario");
-$user->setPassword("hola123"); */
-if(isset($_REQUEST['user'])){
-    if(!isset($_SESSION)){
-        session_start();
-        $_SESSION['user']="";
-    }
-    $usuario=$_REQUEST['user'];
-    $clave=$_REQUEST['password'];
-    $usu=$user->Obtener($usuario,$clave);
-    if($usu){
-        $_SESSION['user']=$usuario;
+if(isset($_REQUEST['user'])){   
+    $user->setUser($_REQUEST['user']);
+    $user->setPassword($_REQUEST['password']);
+    $usu=$user->Registrar($user);
+    if($usu!=-1){
         //Si el usuario y pass coincide, manda un msj de ok
         $datos = array(
             'estado' => 'ok'

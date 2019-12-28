@@ -10,80 +10,26 @@
 					</li>
 				</ul>
 			</section>
-
+			
 		<!-- One -->
 			<section id="one" class="wrapper style1 special">
 				<div class="container">
-					<header class="major">
-            <h2>Consectetur adipisicing elit</h2>
-            
-						<p>Lorem ipsum dolor sit amet, delectus consequatur, similique quia!</p>
-					</header>
-					<div class="row 150%">
-						<div class="4u 12u$(medium)">
-							<section class="box">
-								<i class="icon big rounded color1 fa-cloud"></i>
-								<h3>Lorem ipsum dolor</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim quam consectetur quibusdam magni minus aut modi aliquid.</p>
-							</section>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="">
+								<img src="https://landing.vive1.com/hs-fs/hubfs/vive1App/movil.png?width=1004&name=movil.png" style="width: 100%;">
+							</div>
 						</div>
-						<div class="4u 12u$(medium)">
-							<section class="box">
-								<i class="icon big rounded color9 fa-desktop"></i>
-								<h3>Consectetur adipisicing</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ullam consequatur repellat debitis maxime.</p>
-							</section>
-						</div>
-						<div class="4u$ 12u$(medium)">
-							<section class="box">
-								<i class="icon big rounded color6 fa-rocket"></i>
-								<h3>Adipisicing elit totam</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque eaque eveniet, nesciunt molestias. Ipsam, voluptate vero.</p>
-							</section>
+						<div class="col-md-6">
+							<div>
+							<header class="major">
+								<h2>Visita nuestra web</h2>
+								<p>Desde tú celular</p>
+							</header>							
+							<p>Nuestra página web, disponible en la palma de tu mano.</p>
+							</div>
 						</div>
 					</div>
-				</div>
-			</section>
-
-		<!-- Two -->
-			<section id="two" class="wrapper style2 special">
-				<div class="container">
-					<header class="major">
-						<h2>Lorem ipsum dolor sit</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, autem.</p>
-					</header>
-					<section class="profiles">
-						<div class="row">
-							<section class="3u 6u(medium) 12u$(xsmall) profile">
-								<img src="images/profile_placeholder.gif" alt="" />
-								<h4>Lorem ipsum</h4>
-								<p>Lorem ipsum dolor</p>
-							</section>
-							<section class="3u 6u$(medium) 12u$(xsmall) profile">
-								<img src="images/profile_placeholder.gif" alt="" />
-								<h4>Voluptatem dolores</h4>
-								<p>Ullam nihil repudi</p>
-							</section>
-							<section class="3u 6u(medium) 12u$(xsmall) profile">
-								<img src="images/profile_placeholder.gif" alt="" />
-								<h4>Doloremque quo</h4>
-								<p>Harum corrupti quia</p>
-							</section>
-							<section class="3u$ 6u$(medium) 12u$(xsmall) profile">
-								<img src="images/profile_placeholder.gif" alt="" />
-								<h4>Voluptatem dicta</h4>
-								<p>Et natus sapiente</p>
-							</section>
-						</div>
-					</section>
-					<footer>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam dolore illum, temporibus veritatis eligendi, aliquam, dolor enim itaque veniam aut eaque sequi qui quia vitae pariatur repudiandae ab dignissimos ex!</p>
-						<ul class="actions">
-							<li>
-								<a href="#" class="button big">Lorem ipsum dolor sit</a>
-							</li>
-						</ul>
-					</footer>
 				</div>
 			</section>
 
@@ -91,8 +37,8 @@
 			<section id="three" class="wrapper style3 special">
 				<div class="container">
 					<header class="major">
-						<h2>Consectetur adipisicing elit</h2>
-						<p>Lorem ipsum dolor sit amet. Delectus consequatur, similique quia!</p>
+						<h2>Envia tus sugerencias </h2>
+						<p>siempre conectados para ayudarte con algún problema</p>
 					</header>
 				</div>
 				<div class="container 50%">

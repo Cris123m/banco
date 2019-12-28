@@ -37,12 +37,11 @@ class modelPrestamo{
 
     }
     
+    
     public function calcularInteres($monto,$taza,$tiempo){
-        $prestamo = 0;
-        $prestamos = $monto / $tiempo * $taza  ;
-        return $prestamo;
-       
+        $prestamos = 0;
+        $prestamos = $monto * $taza * $tiempo  ;
+        return $prestamos;       
+        }
     }
-
-}
 ?>
